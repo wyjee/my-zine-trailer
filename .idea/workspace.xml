@@ -4,9 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd79dcbb-9255-4adb-b90c-0d0e17b8ac4c" name="Changes" comment="feature: gh-pages config">
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="fd79dcbb-9255-4adb-b90c-0d0e17b8ac4c" name="Changes" comment="Config: gh-pages">
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter1(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter1(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter10(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter10(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter11(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter11(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter12(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter12(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter13(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter13(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter14(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter14(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter15(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter15(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter16(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter16(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter2(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter2(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter3(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter3(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter4(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter4(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter5(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter5(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter6(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter6(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter7(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter7(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter8(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter8(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter9(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/chapter9(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/intro1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/intro2(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/intro2(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/intro3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/outro1(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/outro1(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/outro2(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/outro2(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/outro3(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/outro3(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/img/spine.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +73,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/wooyeon/local/my-zine&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/wooyeon/local/my-zine/public/img&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -41,6 +85,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/styles" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/pages" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,11 +111,46 @@
       <workItem from="1687752216644" duration="481000" />
       <workItem from="1687873289761" duration="608000" />
       <workItem from="1688102966141" duration="1151000" />
-      <workItem from="1688272582273" duration="626000" />
+      <workItem from="1688272582273" duration="2507000" />
     </task>
+    <task id="LOCAL-00001" summary="Delete: initial page code">
+      <created>1688275349775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688275349775</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Config: gh-pages">
+      <created>1688278757015</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688278757015</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Config: gh-pages">
+      <created>1688278904600</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688278904600</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Config: gh-pages">
+      <created>1688281539974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688281539974</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialize: first commit" />
+    <MESSAGE value="Delete: initial page code" />
+    <MESSAGE value="Config: gh-pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Config: gh-pages" />
   </component>
 </project>
