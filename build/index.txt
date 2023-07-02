@@ -1,6 +1,6 @@
 1:HL["https://wyjee.github.io/my-zine/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["https://wyjee.github.io/my-zine/_next/static/css/d64a885f40cc6957.css",{"as":"style"}]
-0:["zeNOvWRFQ_nQz5lHNLeq4",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"https://wyjee.github.io/my-zine/_next/static/css/d64a885f40cc6957.css","precedence":"next"}]],["$L4",["$","meta",null,{"name":"next-size-adjust"}]]]]]]
+0:["Q8DEkVr3VdZmo2vXu5kTN",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"https://wyjee.github.io/my-zine/_next/static/css/d64a885f40cc6957.css","precedence":"next"}]],["$L4",["$","meta",null,{"name":"next-size-adjust"}]]]]]]
 5:HL["https://wyjee.github.io/my-zine/_next/static/css/2747f812f00cf843.css",{"as":"style"}]
 6:I{"id":"3211","chunks":["272:static/chunks/webpack-251b158725dd9124.js","253:static/chunks/bce60fc1-49ee79ad31766ac6.js","769:static/chunks/769-5b3a4f6de4b2c9ad.js"],"name":"","async":false}
 7:I{"id":"5767","chunks":["272:static/chunks/webpack-251b158725dd9124.js","253:static/chunks/bce60fc1-49ee79ad31766ac6.js","769:static/chunks/769-5b3a4f6de4b2c9ad.js"],"name":"","async":false}
