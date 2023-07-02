@@ -31,63 +31,8 @@ export default function Chapters (){
                 <Image className={'cover_image'} src={"./img/chapter2(2).png"} alt={"chapter2(2).png"} />
             </section>
             <section>
-                <Image className={'cover_image'} src={"./img/chapter3(1).png"} alt={"chapter3(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter3(2).png"} alt={"chapter3(2).png"} />
-            </section>
-            <section>
                 <Image className={'cover_image'} src={"./img/chapter4(1).png"} alt={"chapter4(1).png"} />
                 <Image className={'cover_image'} src={"./img/chapter4(2).png"} alt={"chapter4(2).png"} />
-            </section>
-            <section>
-                <Image className={'cover_image'} src={"./img/chapter5(1).png"} alt={"chapter5(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter5(2).png"} alt={"chapter5(2).png"} />
-            </section>
-            <section>
-                <Image className={'cover_image'} src={"./img/chapter6(1).png"} alt={"chapter6(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter6(2).png"} alt={"chapter6(2).png"} />
-            </section>
-            <section>
-                <Image className={'cover_image'} src={"./img/chapter7(1).png"} alt={"chapter7(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter7(2).png"} alt={"chapter7(2).png"} />
-            </section>
-            <section>
-                <Image className={'cover_image'} src={"./img/chapter8(1).png"} alt={"chapter8(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter8(2).png"} alt={"chapter8(2).png"} />
-            </section>
-            <section>
-                <Image className={'cover_image'} src={"./img/chapter9(1).png"} alt={"chapter9(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter9(2).png"} alt={"chapter9(2).png"} />
-            </section>
-
-            <section>
-                <Image className={'cover_image'} src={"./img/chapter10(1).png"} alt={"chapter10(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter10(2).png"} alt={"chapter10(2).png"} />
-            </section>
-            <section>
-                <Image className={'cover_image'} src={"./img/chapter11(1).png"} alt={"chapter11(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter11(2).png"} alt={"chapter11(2).png"} />
-            </section>
-            <section>
-                <Image className={'cover_image'} src={"./img/chapter12(1).png"} alt={"chapter12(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter12(2).png"} alt={"chapter12(2).png"} />
-            </section>
-            <section>
-                <Image className={'cover_image'} src={"./img/chapter13(1).png"} alt={"chapter13(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter13(2).png"} alt={"chapter13(2).png"} />
-            </section>
-            <section>
-                <Image className={'cover_image'} src={"./img/chapter14(1).png"} alt={"chapter14(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter14(2).png"} alt={"chapter14(2).png"} />
-            </section>
-            <OnePageFinction/>
-
-            <section>
-                <Image className={'cover_image'} src={"./img/chapter15(1).png"} alt={"chapter15(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter15(2).png"} alt={"chapter15(2).png"} />
-            </section>
-            <section>
-                <Image className={'cover_image'} src={"./img/chapter16(1).png"} alt={"chapter16(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter16(2).png"} alt={"chapter16(2).png"} />
             </section>
         </div>
     )
