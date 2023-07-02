@@ -7,7 +7,7 @@ type ImageLoaderProps = {
     quality?: number;
 }
 
-const imageLoader = ({ src, width, height, quality }) => {
+const imageLoader = ({ src, width, height, quality }: ImageLoaderProps) => {
     return `${baseUrl}/${src}?w=${width}&h=${height }&q=${quality || 75}`
 };
 
