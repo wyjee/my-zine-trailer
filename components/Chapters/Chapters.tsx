@@ -6,8 +6,8 @@ export default function Chapters (){
     return (
         <div>
             <section>
-                <Image className={'cover_image'} src={"./img/chapter1(1).png"} alt={"chapter1(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter1(2).png"} alt={"chapter1(2).png"} />
+                <Image className={'cover_image'} src={"img/chapter1(1).png"} alt={"chapter1(1).png"} />
+                <Image className={'cover_image'} src={"img/chapter1(2).png"} alt={"chapter1(2).png"} />
             </section>
             <section>
                 <span>
@@ -26,12 +26,12 @@ export default function Chapters (){
                 </span>
             </section>
             <section>
-                <Image className={'cover_image'} src={"./img/chapter2(1).png"} alt={"chapter2(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter2(2).png"} alt={"chapter2(2).png"} />
+                <Image className={'cover_image'} src={"img/chapter2(1).png"} alt={"chapter2(1).png"} />
+                <Image className={'cover_image'} src={"img/chapter2(2).png"} alt={"chapter2(2).png"} />
             </section>
             <section>
-                <Image className={'cover_image'} src={"./img/chapter4(1).png"} alt={"chapter4(1).png"} />
-                <Image className={'cover_image'} src={"./img/chapter4(2).png"} alt={"chapter4(2).png"} />
+                <Image className={'cover_image'} src={"img/chapter4(1).png"} alt={"chapter4(1).png"} />
+                <Image className={'cover_image'} src={"img/chapter4(2).png"} alt={"chapter4(2).png"} />
             </section>
         </div>
     )

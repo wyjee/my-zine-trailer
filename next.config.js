@@ -8,6 +8,7 @@ const nextConfig = {
     assetPrefix: !debug ? `/${repository}/` : "",
     trailingSlash: true,
     output: 'export',
+    assetPrefix: debug? undefined : "https://wyjee.github.io/my-zine",
     distDir: 'build',
 };
 

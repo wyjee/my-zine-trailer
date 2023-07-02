@@ -6,17 +6,17 @@ export default function Outro () {
     return (
         <div>
             <section className={styles.outro}>
-                <Image className={'cover_image'} src={"./img/outro1(1).png"} alt={"outro1(1).png"}></Image>
-                <Image className={'cover_image'} src={"./img/outro1(2).png"} alt={"outro1(2).png"}></Image>
+                <Image className={'cover_image'} src={"img/outro1(1).png"} alt={"outro1(1).png"}></Image>
+                <Image className={'cover_image'} src={"img/outro1(2).png"} alt={"outro1(2).png"}></Image>
             </section>
             <section className={styles.outro}>
-                <Image className={'cover_image'} src={"./img/outro2(1).png"} alt={"outro1(1).png"}></Image>
-                <Image className={'cover_image'} src={"./img/outro2(2).png"} alt={"outro1(2).png"}></Image>
+                <Image className={'cover_image'} src={"img/outro2(1).png"} alt={"outro1(1).png"}></Image>
+                <Image className={'cover_image'} src={"img/outro2(2).png"} alt={"outro1(2).png"}></Image>
             </section>
 
             <section className={styles.outro}>
-                <Image className={'cover_image'} src={"./img/outro3(1).png"} alt={"outro1(1).png"}></Image>
-                <Image className={'cover_image'} src={"./img/outro3(2).png"} alt={"outro1(2).png"}></Image>
+                <Image className={'cover_image'} src={"img/outro3(1).png"} alt={"outro1(1).png"}></Image>
+                <Image className={'cover_image'} src={"img/outro3(2).png"} alt={"outro1(2).png"}></Image>
             </section>
             <section className="outro cover">
                 <h2>ZIPOUTTHEBAG</h2>
