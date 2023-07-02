@@ -1,6 +1,5 @@
 import imageLoader from "@/utils/ imageLoader";
 import NextImage from "next/image";
-import {ReactElement} from "react";
 
 type ImageProps = {
     src: string;
