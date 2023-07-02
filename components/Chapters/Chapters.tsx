@@ -1,7 +1,6 @@
 'use client'
 
 import Image from "@/components/Image/Image";
-import OnePageFinction from "@/assets/OnePageFiction";
 
 export default function Chapters (){
     return (
