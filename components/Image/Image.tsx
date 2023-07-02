@@ -1,7 +1,18 @@
 import imageLoader from "@/utils/ imageLoader";
 import NextImage from "next/image";
+import {ReactElement} from "react";
 
-const Image = ({src, className, width, height, alt, style}) => {
+type ImageProps = {
+    src: string;
+    width?: number;
+    height?: number;
+    quality?: number;
+    className?: string;
+    alt: string;
+    style?: React.CSSProperties;
+}
+
+const Image = ({src, className, width, height, alt, style}: ImageProps) => {
     return (
         <div className={className || ''}>
           <NextImage loader={imageLoader} src={src}
