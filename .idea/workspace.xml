@@ -4,12 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd79dcbb-9255-4adb-b90c-0d0e17b8ac4c" name="Changes" comment="Config: gh-pages">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/page.module.css" afterDir="false" />
+    <list default="true" id="fd79dcbb-9255-4adb-b90c-0d0e17b8ac4c" name="Changes" comment="Add: /assets">
+      <change afterPath="$PROJECT_DIR$/assets/img/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter1(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter1(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter10(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter10(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter11(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter11(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter12(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter12(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter13(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter13(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter14(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter14(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter15(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter15(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter16(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter16(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter2(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter2(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter3(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter3(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter4(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter4(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter5(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter5(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter6(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter6(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter7(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter7(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter8(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter8(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter9(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chapter9(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/icon_favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/intro1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/intro2(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/intro2(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/intro3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/outro1(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/outro1(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/outro2(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/outro2(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/outro3(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/outro3(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/spine.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,25 +69,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/wooyeon/local/my-zine/public/img&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;/Users/wooyeon/.nvm/versions/node/v16.15.0/bin/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/wooyeon/local/my-zine/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/wooyeon/local/my-zine/assets/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "/Users/wooyeon/.nvm/versions/node/v16.15.0/bin/node",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "/Users/wooyeon/local/my-zine/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/public/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
