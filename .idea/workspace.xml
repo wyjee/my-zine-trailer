@@ -5,7 +5,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd79dcbb-9255-4adb-b90c-0d0e17b8ac4c" name="Changes" comment="Fix: type lints">
-      <change beforePath="$PROJECT_DIR$/utils/ imageLoader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/ imageLoader.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/404/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/chunks/769-5b3a4f6de4b2c9ad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/chunks/app/layout-6c75f792a9afe8ef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/chunks/app/page-4a85b2e176f89bf4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/chunks/bce60fc1-49ee79ad31766ac6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/chunks/framework-8883d1e9be70c3da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/chunks/main-80a8a1a39034e971.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/chunks/main-app-0d8717d23deb270c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/chunks/pages/_app-998b8fceeadee23e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/chunks/pages/_error-e8b35f8a0cf92802.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/chunks/webpack-3534d9e2ece5431f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/css/da973319c82d758f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/css/de4ec0a53e10fae0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/j88987OYg_XJPm94azkrN/_buildManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/j88987OYg_XJPm94azkrN/_ssgManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/media/2aaf0723e720e8b9-s.p.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/media/9c4f34569c9b36ca-s.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/media/ae9ae6716d4f8bf8-s.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/media/b1db3e28af9ef94a-s.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/media/b967158bc7d7a9fb-s.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/media/c0f5ec5bbf5913b7-s.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_next/static/media/d1d9458b69004127-s.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter1(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter1(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter10(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter10(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter11(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter11(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter12(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter12(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter13(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter13(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter14(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter14(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter15(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter15(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter16(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter16(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter2(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter2(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter3(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter3(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter4(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter4(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter5(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter5(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter6(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter6(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter7(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter7(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter8(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter8(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter9(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/chapter9(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/icon_favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro2(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro2(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/outro1(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/outro1(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/outro2(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/outro2(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/outro3(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/outro3(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/spine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/vercel.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688292851888</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Fix: type lints">
+      <created>1688292933647</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688292933647</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
