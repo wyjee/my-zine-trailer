@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd79dcbb-9255-4adb-b90c-0d0e17b8ac4c" name="Changes" comment="Add: ReadMe">
-      <change afterPath="$PROJECT_DIR$/components/ContactMe/ContactMe.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/styles/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/styles/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/page.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/.nojekyll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Outro.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Outro.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ContactMe/ContactMe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ContactMe/ContactMe.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688346659496</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add: ReadMe">
+      <created>1688346924242</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1688346924242</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
