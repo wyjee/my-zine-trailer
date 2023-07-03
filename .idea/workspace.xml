@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd79dcbb-9255-4adb-b90c-0d0e17b8ac4c" name="Changes" comment="Fix: baseUrl">
+    <list default="true" id="fd79dcbb-9255-4adb-b90c-0d0e17b8ac4c" name="Changes" comment="Add: ReadMe">
+      <change afterPath="$PROJECT_DIR$/components/ContactMe/ContactMe.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Image/Image.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Image/Image.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/page.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Outro.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Outro.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,11 +226,36 @@
       <option name="project" value="LOCAL" />
       <updated>1688310601850</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Fix: baseUrl">
+      <created>1688311268698</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1688311268698</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Add: ReadMe">
+      <created>1688346659496</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1688346659496</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize: first commit" />
@@ -239,6 +266,7 @@
     <MESSAGE value="Fix: type lints" />
     <MESSAGE value="Add: change to trailer" />
     <MESSAGE value="Fix: baseUrl" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: baseUrl" />
+    <MESSAGE value="Add: ReadMe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: ReadMe" />
   </component>
 </project>

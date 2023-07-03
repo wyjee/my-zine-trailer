@@ -1,10 +1,11 @@
 'use client'
 
 import Image from "@/components/Image/Image";
+import styles from "@/assets/styles/page.module.css";
 
 export default function Intro() {
     return (
-        <div>
+        <div className={styles.col}>
             <section className="intro">
                 <Image className={'cover_image'} src={"img/intro1.jpg"} alt={"intro1.jpg"} />
             </section>

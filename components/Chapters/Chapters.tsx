@@ -1,10 +1,12 @@
 'use client'
 
 import Image from "@/components/Image/Image";
+import styles from "@/assets/styles/page.module.css"
+import MyPage from "@/components/ContactMe/ContactMe";
 
 export default function Chapters (){
     return (
-        <div>
+        <div className={styles.col}>
             <section>
                 <Image className={'cover_image'} src={"img/chapter1(1).png"} alt={"chapter1(1).png"} />
                 <Image className={'cover_image'} src={"img/chapter1(2).png"} alt={"chapter1(2).png"} />
@@ -14,7 +16,7 @@ export default function Chapters (){
                 <h2>ZIP OUT</h2>
                 </span>
                 <span>
-                    <ul className="content-list">
+                    <ul className={styles.contents_wrapper}>
                     <li><b>01</b>나는 아직도 내가 마음에 듭니다</li>
                     <li><b>04</b>인서울을 할 수 있다고 생각해요</li>
                     <li><b>10</b>WAS HAST DU GESCHAFT</li>
@@ -27,12 +29,14 @@ export default function Chapters (){
             </section>
             <section>
                 <Image className={'cover_image'} src={"img/chapter2(1).png"} alt={"chapter2(1).png"} />
-                <Image className={'cover_image'} src={"img/chapter2(2).png"} alt={"chapter2(2).png"} />
+                <Image className={'cover_image'} src={"img/chapter2(2).png"} alt={"chapter2(2).png"} style={{ margin: '3px 0px 0px 0px' }} />
             </section>
             <section>
                 <Image className={'cover_image'} src={"img/chapter4(1).png"} alt={"chapter4(1).png"} />
                 <Image className={'cover_image'} src={"img/chapter4(2).png"} alt={"chapter4(2).png"} />
+                <div className={styles.fade}></div>
             </section>
+            <MyPage />
         </div>
     )
 }
