@@ -1,0 +1,12 @@
+1:HL["https://wyjee.github.io/my-zine-trailer/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["https://wyjee.github.io/my-zine-trailer/_next/static/css/1c2bfdca0b505add.css",{"as":"style"}]
+0:["1u2hNuTOhp-RLHeDgJqLQ",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"https://wyjee.github.io/my-zine-trailer/_next/static/css/1c2bfdca0b505add.css","precedence":"next"}]],["$L4",["$","meta",null,{"name":"next-size-adjust"}]]]]]]
+5:HL["https://wyjee.github.io/my-zine-trailer/_next/static/css/b91de55a45806fdc.css",{"as":"style"}]
+6:I{"id":"3211","chunks":["272:static/chunks/webpack-f7e04e6e31c970c9.js","253:static/chunks/bce60fc1-49ee79ad31766ac6.js","769:static/chunks/769-5b3a4f6de4b2c9ad.js"],"name":"","async":false}
+7:I{"id":"5767","chunks":["272:static/chunks/webpack-f7e04e6e31c970c9.js","253:static/chunks/bce60fc1-49ee79ad31766ac6.js","769:static/chunks/769-5b3a4f6de4b2c9ad.js"],"name":"","async":false}
+8:I{"id":"4018","chunks":["931:static/chunks/app/page-17c5592671ecaf99.js"],"name":"","async":false}
+9:I{"id":"4019","chunks":["931:static/chunks/app/page-17c5592671ecaf99.js"],"name":"","async":false}
+a:I{"id":"5651","chunks":["931:static/chunks/app/page-17c5592671ecaf99.js"],"name":"","async":false}
+b:I{"id":"2943","chunks":["931:static/chunks/app/page-17c5592671ecaf99.js"],"name":"","async":false}
+3:[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_02bc19","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":[["$","main",null,{"className":"page_main____b2t page_col__63W1f","children":[["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}]]}],null],"segment":"__PAGE__"},"styles":[["$","link","0",{"rel":"stylesheet","href":"https://wyjee.github.io/my-zine-trailer/_next/static/css/b91de55a45806fdc.css","precedence":"next"}]]}]}]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Zip Out"}],["$","meta","2",{"name":"description","content":"magazine app Vol.1 with next app"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"any"}]]
