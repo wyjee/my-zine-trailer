@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd79dcbb-9255-4adb-b90c-0d0e17b8ac4c" name="Changes" comment="Add: ReadMe">
+    <list default="true" id="fd79dcbb-9255-4adb-b90c-0d0e17b8ac4c" name="Changes" comment="Modify: ReadMe text">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ContactMe/ContactMe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ContactMe/ContactMe.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Outro.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Outro.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688346924242</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Modify: ReadMe text">
+      <created>1688347456218</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1688347456218</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +276,7 @@
     <MESSAGE value="Add: change to trailer" />
     <MESSAGE value="Fix: baseUrl" />
     <MESSAGE value="Add: ReadMe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: ReadMe" />
+    <MESSAGE value="Modify: ReadMe text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify: ReadMe text" />
   </component>
 </project>

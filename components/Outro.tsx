@@ -20,7 +20,7 @@ export default function Outro () {
             </section>
             <section className={`${styles.col} outro`}>
                 <h2>ZIPOUTTHEBAG</h2>
-                <p>contact me: <a href="mailto:wooyeon.jee@gmail.com">jeewooyeon@gmail.com</a></p>
+                <p>contact me: <a href="mailto:wooyeon.jee@gmail.com">wooyeon.jee@gmail.com</a></p>
             </section>
         </div>
     )
